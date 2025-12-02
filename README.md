@@ -6,8 +6,8 @@ This repository contains the code work and intermediate experimental results for
 
 | Name | Contact |
 |------|---------|
-| Ziyan Lei | |
-| Zijiang Yang | |
+| Ziyan Lei | rayzian1224@gmail.com|
+| Zijiang Yang | yangzijiang0423@gmail.com|
 | Vincent Feng | |
 | Shipeng Wan | |
 
