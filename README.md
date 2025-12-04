@@ -6,9 +6,9 @@ This repository contains the code work and intermediate experimental results for
 
 | Name | Contact |
 |------|---------|
-| Ziyan Lei | rayzian1224@gmail.com|
-| Zijiang Yang | yangzijiang0423@gmail.com|
-| Vincent Feng | |
+| Ziyan Lei | rayzian1224@gmail.com |
+| Zijiang Yang | yangzijiang0423@gmail.com |
+| Vincent Feng | VincentFeng7819@outlook.com |
 | Shipeng Wan | |
 
 📧 For any questions, please contact us at: **dq25474@bristol.ac.uk**
